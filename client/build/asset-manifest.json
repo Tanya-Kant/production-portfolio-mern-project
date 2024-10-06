@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05676e8d.css",
+    "main.js": "/static/js/main.d1164d55.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/bbg.jpg": "/static/media/bbg.76c2edf1453780a4d4d2.jpg",
+    "static/media/TanyaKant_resume.pdf": "/static/media/TanyaKant_resume.af7258d05b21a35e9b3f.pdf",
+    "static/media/profile_image.jpg": "/static/media/profile_image.a56c1a4321ce55a2df8d.jpg",
+    "index.html": "/index.html",
+    "main.05676e8d.css.map": "/static/css/main.05676e8d.css.map",
+    "main.d1164d55.js.map": "/static/js/main.d1164d55.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05676e8d.css",
+    "static/js/main.d1164d55.js"
+  ]
+}

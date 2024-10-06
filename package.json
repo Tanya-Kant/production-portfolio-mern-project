@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^4.1.0",
+    "@react-three/drei": "^9.99.0",
+    "@react-three/fiber": "^8.15.16",
+    "cors": "^2.8.5",
+    "create-react-app": "^5.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "framer-motion": "^11.0.5",
+    "maath": "^0.10.7",
+    "react": "^18.2.0",
+    "react-router-dom": "^6.22.1",
+    "react-tilt": "^1.0.2"
+  },
+  "name": "mern-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio app",
+  "main": "server.js",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanya Kant",
+  "license": "MIT"
+}
